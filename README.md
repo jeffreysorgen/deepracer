@@ -1,5 +1,7 @@
 # deepracer
-This is the time trial for the model I created in 2019. It's not not good but it goes completely around the track, which is a big step. 
+This is the time trial for the model I created in 2019. 
+
+It's not not good but it goes completely around the track, which is a big step. 
 
 <img src="/deep-racer-time-trial.gif"/>
 
