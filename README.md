@@ -1,3 +1,4 @@
 # deepracer
-time-trial-eval.mp4
-<img src="/time-trial-eval.mp4">
+time-trial-eval.gif
+
+<img src="/time-trial-eval.gif">
