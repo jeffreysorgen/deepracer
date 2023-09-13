@@ -8,7 +8,7 @@ I cut off a few seconds using a better model (also 2019). The track was the same
 <img src="/better-lap-time.png" width="45%"/>
 
 ## Reward function:
-
+Tweaking these parameters would help. 
 ``` python
 def reward_function(params):
     ###############################################################################
