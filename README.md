@@ -1,4 +1,4 @@
 # deepracer
-time-trial-eval.gif
+deep-racer-time-trial.gif
 
-<img src="/time-trial-eval.gif">
+<img src="/deep-racer-time-trial.gif">
